@@ -1,7 +1,8 @@
 # Windows 10 dotfiles
+using git bare repository to track the files. this is the guide https://www.ackama.com/blog/posts/the-best-way-to-store-your-dotfiles-a-bare-git-repository-explained 
 
-## Tools/Apps I'm using
-### Windows
+## tools/apps I'm using
+### windows
 - with config files
     - [nog](https://github.com/TimUntersberger/nog)
     - [spicetify-cli](https://github.com/khanhas/spicetify-cli)
