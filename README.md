@@ -7,6 +7,7 @@ using git bare repository to track the files. this is the guide https://www.acka
     - [nog](https://github.com/TimUntersberger/nog)
     - [spicetify-cli](https://github.com/khanhas/spicetify-cli)
     - windows terminal
+    - AutoHotKey
 - without config files
     - taskbarx
     - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
