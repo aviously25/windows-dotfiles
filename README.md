@@ -14,6 +14,7 @@ using git bare repository to track the files. this is the guide https://www.acka
     - throttlestop
     - [ASIO Link Pro w patcher](https://give.academy/downloads/2018/03/03/ODeusASIOLinkPro/)
         - allows using asio device w multiple apps
+    - Winaero Tweaker
 
 ### WSL
 - nvim
